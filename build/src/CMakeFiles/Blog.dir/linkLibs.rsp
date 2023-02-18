@@ -1,0 +1,1 @@
+ DataBase/libmodule_DataBase.a D:/vs/VSCodeC++/blog/src/DataBase/MySql/lib/libmysql.dll D:/vs/VSCodeC++/blog/src/DataBase/MySql/lib/libmysql.lib -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

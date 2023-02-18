@@ -1,0 +1,2 @@
+D:\vs\VSCodeC++\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\bin\ar.exe qc libmodule_DataBase.a CMakeFiles/module_DataBase.dir/DataBase.cpp.obj
+D:\vs\VSCodeC++\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\bin\ranlib.exe libmodule_DataBase.a

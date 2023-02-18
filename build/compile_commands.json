@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/vs/VSCodeC++/blog/build/src",
+  "command": "D:\\vs\\VSCodeC++\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\bin\\g++.exe  @CMakeFiles/Blog.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\Blog.dir\\main.cpp.obj -c D:\\vs\\VSCodeC++\\blog\\src\\main.cpp",
+  "file": "D:/vs/VSCodeC++/blog/src/main.cpp",
+  "output": "src/CMakeFiles/Blog.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/vs/VSCodeC++/blog/build/src/DataBase",
+  "command": "D:\\vs\\VSCodeC++\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\bin\\g++.exe  @CMakeFiles/module_DataBase.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\module_DataBase.dir\\DataBase.cpp.obj -c D:\\vs\\VSCodeC++\\blog\\src\\DataBase\\DataBase.cpp",
+  "file": "D:/vs/VSCodeC++/blog/src/DataBase/DataBase.cpp",
+  "output": "src/DataBase/CMakeFiles/module_DataBase.dir/DataBase.cpp.obj"
+}
+]

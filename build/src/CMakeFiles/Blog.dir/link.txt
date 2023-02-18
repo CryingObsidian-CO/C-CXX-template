@@ -1,0 +1,3 @@
+D:\vs\VSCodeC++\mingw-w64\cmake-3.26.0-rc2-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\Blog.dir/objects.a
+D:\vs\VSCodeC++\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\bin\ar.exe qc CMakeFiles\Blog.dir/objects.a @CMakeFiles\Blog.dir\objects1.rsp
+D:\vs\VSCodeC++\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Blog.dir/objects.a -Wl,--no-whole-archive -o ..\bin\Blog.exe -Wl,--out-implib,..\bin\libBlog.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Blog.dir\linkLibs.rsp
